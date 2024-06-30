@@ -1,10 +1,10 @@
-# Image Upload Application
+# Image to Text Convertor
 
-This is a full-stack application that allows users to upload images, extract text and bold words from the images, and manage user authentication.
+This full-stack application allows users to upload images, extract text and bold words from the pictures, and manage user authentication.
 
 ## Features
 
-- **Image Upload**: Users can upload images and extract text content, including bold words, using OCR.
+- **Image Upload**: Using OCR, users can upload images and extract text content, including bold words.
 - **User Authentication**: Users can register, log in, and manage sessions.
 - **Text Extraction**: Extracted text and bold words are stored in the database.
 - **Frontend**: Built with React, providing a simple and user-friendly interface.
