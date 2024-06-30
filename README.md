@@ -1,4 +1,4 @@
-# Image to Text Convertor
+# Image to Text Converter
 
 This full-stack application allows users to upload images, extract text and bold words from the pictures, and manage user authentication.
 
